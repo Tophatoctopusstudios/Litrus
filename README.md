@@ -2,9 +2,11 @@
 A client to install Lutris games.
 
 # 0.0.1 Release
+  Right now this is literally base electron loading a url.
+  
   Functional but in progress.
   
-  Curently the only way to run is:
+  Commands to run are:
   
   npm-install
   
