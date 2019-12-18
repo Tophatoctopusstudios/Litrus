@@ -1,0 +1,23 @@
+{
+  "name": "litrus",
+  "version": "0.0.1",
+  "description": "A Install Client for lutris",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^7.1.5"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Top Hat Octopus Studios",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tophatoctopusstudios/Litrus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tophatoctopusstudios/Litrus/issues"
+  },
+  "homepage": "https://github.com/Tophatoctopusstudios/Litrus#readme"
+}
